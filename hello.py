@@ -33,6 +33,14 @@ x = min(5, 10, 25)
 y = max(5, 10, 25)
 
 print(x)
-print(y)
 
+print("enter your name:")
+name = input()
+print(f'hello{name}')
 
+name = input("enter your name:")
+print(f"hello{name}")
+fav1 = input("what is your favorite animal:")
+fav2 = input("what is your favorite colour:")
+fav3 = input("what is your favorite number:")
+print(f"do you want a {fav2} {fav1} with {fav3} legs?")
