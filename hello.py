@@ -46,3 +46,17 @@ if fingerprint == "match":
 else:
     print("not matched, use facial recognition")
 
+
+abc = 2000000
+kjh = 3000000
+hgf = 4000000
+bvc = 5000000
+
+if abc <= 2000000:
+    print("4th")
+if kjh <= 3000000:
+    print("3rd")
+if hgf <= 4000000:
+    print("2nd")
+if bvc <= 5000000:
+    print("1st")
